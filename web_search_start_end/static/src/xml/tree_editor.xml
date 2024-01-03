@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+
+    <t t-name="TreeEditor.condition:editable" t-inherit="web.TreeEditor.condition:editable"
+       t-inherit-mode="extension" owl="1">
+        <xpath expr='//t[@t-value="props.getOperatorEditorInfo(node)"]' position="replace">
+            <t t-set="info" t-value="getOperatorEditorInfo(node)" />
+        </xpath>
+        <xpath expr='//t[@t-value="node.value"]' position="replace">
+             <t t-set="value" t-value="updateedValue(node)" />
+        </xpath>
+    </t>
+
+</templates>
