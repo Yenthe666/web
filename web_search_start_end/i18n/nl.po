@@ -1,0 +1,210 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_search_start_end
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-03 07:01+0000\n"
+"PO-Revision-Date: 2024-01-03 07:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "=ilike"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "=like"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "Ends With"
+msgstr "Eindigt met"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "False"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "Not a valid %s"
+msgstr "Geen geldige %s"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "Operator not supported"
+msgstr "Operator niet ondersteund"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "Starts With"
+msgstr "Begint met"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "True"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "Value not in selection"
+msgstr "Waarde niet in selectie"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "Value not supported"
+msgstr "Waarde niet ondersteund"
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#: code:addons/web_search_start_end/static/src/utils.js:0
+#, python-format
+msgid "and"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "child of"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "contains"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "does not contain"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is between"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is in"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is not"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is not in"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is not set"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "is set"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "like"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "not like"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "not set"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#: code:addons/web_search_start_end/static/src/utils.js:0
+#, python-format
+msgid "or"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#, python-format
+msgid "parent of"
+msgstr ""
+
+#. module: web_search_start_end
+#. odoo-javascript
+#: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
+#: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
+#, python-format
+msgid "set"
+msgstr ""
