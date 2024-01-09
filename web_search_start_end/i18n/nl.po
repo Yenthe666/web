@@ -34,7 +34,7 @@ msgstr ""
 #: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
 #, python-format
 msgid "Ends With"
-msgstr ""
+msgstr "Eindigt met"
 
 #. module: web_search_start_end
 #. odoo-javascript
@@ -49,21 +49,21 @@ msgstr ""
 #: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
 #, python-format
 msgid "Not a valid %s"
-msgstr ""
+msgstr "Geen geldige %s"
 
 #. module: web_search_start_end
 #. odoo-javascript
 #: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
 #, python-format
 msgid "Operator not supported"
-msgstr ""
+msgstr "Operator niet ondersteund"
 
 #. module: web_search_start_end
 #. odoo-javascript
 #: code:addons/web_search_start_end/static/src/js/tree_editor_operator_editor.js:0
 #, python-format
 msgid "Starts With"
-msgstr ""
+msgstr "Begint met"
 
 #. module: web_search_start_end
 #. odoo-javascript
@@ -77,14 +77,14 @@ msgstr ""
 #: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
 #, python-format
 msgid "Value not in selection"
-msgstr ""
+msgstr "Waarde niet in selectie"
 
 #. module: web_search_start_end
 #. odoo-javascript
 #: code:addons/web_search_start_end/static/src/js/tree_editor_value_editors.js:0
 #, python-format
 msgid "Value not supported"
-msgstr ""
+msgstr "Waarde niet ondersteund"
 
 #. module: web_search_start_end
 #. odoo-javascript
